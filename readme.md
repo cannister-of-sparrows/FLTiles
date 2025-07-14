@@ -40,5 +40,5 @@ See the [LICENSE](LICENSE) file for details.
 
 ### Tileset
 
-This project includes graphical assets from the **Sprout Lands Basic Pack** by [**Cup Nooble**](cupnooble.carrd.co), which is licensed separately.
+This project includes graphical assets from the **Sprout Lands Basic Pack** by [**Cup Nooble**](https://cupnooble.carrd.co/), which is licensed separately.
 See the [TILESETLICENSE](TILESETLICENSE) file for details.
